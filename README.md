@@ -36,12 +36,12 @@ A Spring Boot banking backend with multi-account management, beneficiary managem
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `REST`
 
-[Repository →](https://github.com/Akshay-k-baburaj/digital-banking-platform)
+[Repository →](https://github.com/Akshay-k-baburaj/Secure-Digital-Banking-Platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 💸 Expense Splitter API &nbsp;`🚧 In Progress`
+### 💸 Expense Splitter 
 
 *Problem: tracking who owes whom in a group without messy spreadsheets.*
 
@@ -49,7 +49,7 @@ A layered REST API for group expense tracking. Includes Flyway migrations, a sof
 
 `Java 21` `Spring Boot 3` `PostgreSQL` `JPA` `Flyway` `MapStruct`
 
-[Repository →](https://github.com/Akshay-k-baburaj/expense-splitter-api)
+[Repository →](https://github.com/Akshay-k-baburaj/expense-splitter)
 
 </td>
 </tr>
